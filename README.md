@@ -1,5 +1,5 @@
 # Grasshopper Dagslys script V1
-SScriptet er udviklet med henblik på at kunne beregne sDA igennem en revit model. Dog kan scriptet, med viden inden for grasshopper og ladybug tools, omskrives til at lave udtræk direkte fra Rhino. På denne måde, vil man kunne have et dagslys script, der nemt kan bruges i de helt tidlige designfaser også. 
+Scriptet er udviklet med henblik på at kunne beregne sDA igennem en revit model. Dog kan scriptet, med viden inden for grasshopper og ladybug tools, omskrives til at lave udtræk direkte fra Rhino. På denne måde, vil man kunne have et dagslys script, der nemt kan bruges i de helt tidlige designfaser også. 
 
 # Dansk Guide
 
